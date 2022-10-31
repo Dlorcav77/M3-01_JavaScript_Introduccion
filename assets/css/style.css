@@ -1,0 +1,22 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.calculo{
+    padding-top: 10rem;
+}
+.mensaje{
+    display: flex;
+    flex-direction: row;
+}
+.color{
+    background-color: white;
+    width: 1.5rem;
+    height: 1.45rem;
+    border-radius: 100%;
+}
+
+#precio{
+    display: flex;
+    flex-direction: row;
+}
